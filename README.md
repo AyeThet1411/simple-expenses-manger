@@ -1,0 +1,2 @@
+# simple-expenses-manger
+javascript
